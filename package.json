@@ -1,0 +1,22 @@
+{
+  "author": "Aaron Abelard <aaron@steamcube.com>",
+  "name": "statsd-appdynamics-backend",
+  "description": "A StatsD backend for AppDynamics",
+  "version": "0.1.0",
+  "homepage": "https://github.com/aaaaron/statsd-appdynamics-backend",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aaaaron/statsd-appdynamics-backend.git"
+  },
+  "keywords": [
+    "appdynamics",
+    "metrics",
+    "statsd"
+  ],
+  "engines": {
+    "node": ">=0.8"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "main": "lib/appdynamics.js"
+}
